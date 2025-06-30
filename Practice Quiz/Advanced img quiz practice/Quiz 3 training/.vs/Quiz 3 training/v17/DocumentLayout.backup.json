@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\VisualStudio 2022 preview saves\\MultiMedia CS232\\Practice Quiz\\Advanced img quiz practice\\Quiz 3 training\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{043FAC5B-C527-49AC-8E83-7092CB844609}|Quiz 3 training.csproj|z:\\visualstudio 2022 preview saves\\multimedia cs232\\practice quiz\\advanced img quiz practice\\quiz 3 training\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043FAC5B-C527-49AC-8E83-7092CB844609}|Quiz 3 training.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043FAC5B-C527-49AC-8E83-7092CB844609}|Quiz 3 training.csproj|z:\\visualstudio 2022 preview saves\\multimedia cs232\\practice quiz\\advanced img quiz practice\\quiz 3 training\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{043FAC5B-C527-49AC-8E83-7092CB844609}|Quiz 3 training.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "Z:\\VisualStudio 2022 preview saves\\MultiMedia CS232\\Practice Quiz\\Advanced img quiz practice\\Quiz 3 training\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "Z:\\VisualStudio 2022 preview saves\\MultiMedia CS232\\Practice Quiz\\Advanced img quiz practice\\Quiz 3 training\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAuwJMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:47:13.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "Z:\\VisualStudio 2022 preview saves\\MultiMedia CS232\\Practice Quiz\\Advanced img quiz practice\\Quiz 3 training\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "Z:\\VisualStudio 2022 preview saves\\MultiMedia CS232\\Practice Quiz\\Advanced img quiz practice\\Quiz 3 training\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:47:08.495Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

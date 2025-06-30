@@ -1,0 +1,10 @@
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 1\Problem 1\Assignment 1 (Problem1)\bin\Debug\Assignment 1 (Problem1).exe.config
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 1\Problem 1\Assignment 1 (Problem1)\bin\Debug\Assignment 1 (Problem1).exe
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 1\Problem 1\Assignment 1 (Problem1)\bin\Debug\Assignment 1 (Problem1).pdb
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 1\Problem 1\Assignment 1 (Problem1)\obj\Debug\Assignment 1 (Problem1).csproj.AssemblyReference.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 1\Problem 1\Assignment 1 (Problem1)\obj\Debug\Assignment_1__Problem1_.Form1.resources
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 1\Problem 1\Assignment 1 (Problem1)\obj\Debug\Assignment_1__Problem1_.Properties.Resources.resources
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 1\Problem 1\Assignment 1 (Problem1)\obj\Debug\Assignment 1 (Problem1).csproj.GenerateResource.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 1\Problem 1\Assignment 1 (Problem1)\obj\Debug\Assignment 1 (Problem1).csproj.CoreCompileInputs.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 1\Problem 1\Assignment 1 (Problem1)\obj\Debug\Assignment 1 (Problem1).exe
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 1\Problem 1\Assignment 1 (Problem1)\obj\Debug\Assignment 1 (Problem1).pdb

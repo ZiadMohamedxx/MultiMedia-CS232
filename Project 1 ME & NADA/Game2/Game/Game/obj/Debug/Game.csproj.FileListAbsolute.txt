@@ -1,0 +1,19 @@
+C:\Users\EMAD\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\EMAD\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\EMAD\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\EMAD\source\repos\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\EMAD\source\repos\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\EMAD\source\repos\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\EMAD\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\EMAD\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\EMAD\source\repos\Game\Game\obj\Debug\Game.pdb
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Project 1 ME & NADA\Game2\Game\Game\bin\Debug\Game.exe.config
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Project 1 ME & NADA\Game2\Game\Game\bin\Debug\Game.exe
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Project 1 ME & NADA\Game2\Game\Game\bin\Debug\Game.pdb
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Project 1 ME & NADA\Game2\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Project 1 ME & NADA\Game2\Game\Game\obj\Debug\Game.exe.config
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Project 1 ME & NADA\Game2\Game\Game\obj\Debug\Game.Properties.Resources.resources
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Project 1 ME & NADA\Game2\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Project 1 ME & NADA\Game2\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Project 1 ME & NADA\Game2\Game\Game\obj\Debug\Game.exe
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Project 1 ME & NADA\Game2\Game\Game\obj\Debug\Game.pdb

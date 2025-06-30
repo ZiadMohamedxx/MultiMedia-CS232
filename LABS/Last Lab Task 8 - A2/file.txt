@@ -1,0 +1,5 @@
+name,description,path
+F,Female,Z:\\VisualStudio 2022 preview saves\\MultiMedia CS232\\LABS\\Last Lab Task 8 - A2\\bin\\Debug\\F.bmp
+M,Male,Z:\\VisualStudio 2022 preview saves\\MultiMedia CS232\\LABS\\Last Lab Task 8 - A2\\bin\\Debug\\M.bmp
+MSA,MSA,Z:\\VisualStudio 2022 preview saves\\MultiMedia CS232\\LABS\\Last Lab Task 8 - A2\\bin\\Debug\\MSA.bmp
+UOG,UOG,Z:\\VisualStudio 2022 preview saves\\MultiMedia CS232\\LABS\\Last Lab Task 8 - A2\\bin\\Debug\\UOG.bmp

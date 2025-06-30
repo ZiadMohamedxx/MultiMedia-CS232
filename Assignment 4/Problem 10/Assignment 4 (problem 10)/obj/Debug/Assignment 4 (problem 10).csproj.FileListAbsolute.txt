@@ -1,0 +1,9 @@
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 10\Assignment 4 (problem 10)\bin\Debug\Assignment 4 (problem 10).exe.config
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 10\Assignment 4 (problem 10)\bin\Debug\Assignment 4 (problem 10).exe
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 10\Assignment 4 (problem 10)\bin\Debug\Assignment 4 (problem 10).pdb
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 10\Assignment 4 (problem 10)\obj\Debug\Assignment 4 (problem 10).csproj.AssemblyReference.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 10\Assignment 4 (problem 10)\obj\Debug\Assignment_4__problem_10_.Properties.Resources.resources
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 10\Assignment 4 (problem 10)\obj\Debug\Assignment 4 (problem 10).csproj.GenerateResource.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 10\Assignment 4 (problem 10)\obj\Debug\Assignment 4 (problem 10).csproj.CoreCompileInputs.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 10\Assignment 4 (problem 10)\obj\Debug\Assignment 4 (problem 10).exe
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 10\Assignment 4 (problem 10)\obj\Debug\Assignment 4 (problem 10).pdb

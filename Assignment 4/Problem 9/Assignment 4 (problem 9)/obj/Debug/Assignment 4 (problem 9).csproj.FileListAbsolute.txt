@@ -1,0 +1,9 @@
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 9\Assignment 4 (problem 9)\bin\Debug\Assignment 4 (problem 9).exe.config
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 9\Assignment 4 (problem 9)\bin\Debug\Assignment 4 (problem 9).exe
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 9\Assignment 4 (problem 9)\bin\Debug\Assignment 4 (problem 9).pdb
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 9\Assignment 4 (problem 9)\obj\Debug\Assignment 4 (problem 9).csproj.AssemblyReference.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 9\Assignment 4 (problem 9)\obj\Debug\Assignment_4__problem_9_.Properties.Resources.resources
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 9\Assignment 4 (problem 9)\obj\Debug\Assignment 4 (problem 9).csproj.GenerateResource.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 9\Assignment 4 (problem 9)\obj\Debug\Assignment 4 (problem 9).csproj.CoreCompileInputs.cache
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 9\Assignment 4 (problem 9)\obj\Debug\Assignment 4 (problem 9).exe
+Z:\VisualStudio 2022 preview saves\MultiMedia CS232\Assignment 4\Problem 9\Assignment 4 (problem 9)\obj\Debug\Assignment 4 (problem 9).pdb

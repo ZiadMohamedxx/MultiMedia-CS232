@@ -1,0 +1,9 @@
+E:\Personal\Courses\MultiMedia_Visualization\Lectures\Lec_6.b_Scrolling\InLec_07_05_2024A\InLec_07_05_2024A\bin\Debug\InLec_07_05_2024A.exe.config
+E:\Personal\Courses\MultiMedia_Visualization\Lectures\Lec_6.b_Scrolling\InLec_07_05_2024A\InLec_07_05_2024A\bin\Debug\InLec_07_05_2024A.exe
+E:\Personal\Courses\MultiMedia_Visualization\Lectures\Lec_6.b_Scrolling\InLec_07_05_2024A\InLec_07_05_2024A\bin\Debug\InLec_07_05_2024A.pdb
+E:\Personal\Courses\MultiMedia_Visualization\Lectures\Lec_6.b_Scrolling\InLec_07_05_2024A\InLec_07_05_2024A\obj\Debug\InLec_07_05_2024A.csproj.AssemblyReference.cache
+E:\Personal\Courses\MultiMedia_Visualization\Lectures\Lec_6.b_Scrolling\InLec_07_05_2024A\InLec_07_05_2024A\obj\Debug\InLec_07_05_2024A.Properties.Resources.resources
+E:\Personal\Courses\MultiMedia_Visualization\Lectures\Lec_6.b_Scrolling\InLec_07_05_2024A\InLec_07_05_2024A\obj\Debug\InLec_07_05_2024A.csproj.GenerateResource.cache
+E:\Personal\Courses\MultiMedia_Visualization\Lectures\Lec_6.b_Scrolling\InLec_07_05_2024A\InLec_07_05_2024A\obj\Debug\InLec_07_05_2024A.csproj.CoreCompileInputs.cache
+E:\Personal\Courses\MultiMedia_Visualization\Lectures\Lec_6.b_Scrolling\InLec_07_05_2024A\InLec_07_05_2024A\obj\Debug\InLec_07_05_2024A.exe
+E:\Personal\Courses\MultiMedia_Visualization\Lectures\Lec_6.b_Scrolling\InLec_07_05_2024A\InLec_07_05_2024A\obj\Debug\InLec_07_05_2024A.pdb
