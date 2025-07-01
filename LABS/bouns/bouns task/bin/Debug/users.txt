@@ -1,4 +1,0 @@
-User_id,User_name,password
-1,yousef amr,123
-2,menna,321
-3,ahmed,987
