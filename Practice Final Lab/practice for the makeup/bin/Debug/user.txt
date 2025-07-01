@@ -1,4 +1,0 @@
-1,Yasmeen Ouf,yasmeen@gmail.com,123,C:\Users\PC\Desktop\1.jpg,female,yasmeen,456
-2,ziad,ziad@gmail.com,010155,,male,ziad,123
-3,ziad number 2,ziad@hotmail,01015513624,Z:\zoza6\Documents\Task 4 char array.png,male,zoz,258
-0,ziad,nada@gmail.com,010155,C:\Users\zoza6\OneDrive\Desktop\IMG_4352.jpg,female,,123
