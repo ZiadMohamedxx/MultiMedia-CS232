@@ -1,9 +1,0 @@
-G:\15-5-2024\Quiz_3\Codes\Lec_17\InLec_09_05_2024B\bin\Debug\InLec_09_05_2024B.exe.config
-G:\15-5-2024\Quiz_3\Codes\Lec_17\InLec_09_05_2024B\bin\Debug\InLec_09_05_2024B.exe
-G:\15-5-2024\Quiz_3\Codes\Lec_17\InLec_09_05_2024B\bin\Debug\InLec_09_05_2024B.pdb
-G:\15-5-2024\Quiz_3\Codes\Lec_17\InLec_09_05_2024B\obj\Debug\InLec_09_05_2024B.csprojAssemblyReference.cache
-G:\15-5-2024\Quiz_3\Codes\Lec_17\InLec_09_05_2024B\obj\Debug\InLec_09_05_2024B.Properties.Resources.resources
-G:\15-5-2024\Quiz_3\Codes\Lec_17\InLec_09_05_2024B\obj\Debug\InLec_09_05_2024B.csproj.GenerateResource.cache
-G:\15-5-2024\Quiz_3\Codes\Lec_17\InLec_09_05_2024B\obj\Debug\InLec_09_05_2024B.csproj.CoreCompileInputs.cache
-G:\15-5-2024\Quiz_3\Codes\Lec_17\InLec_09_05_2024B\obj\Debug\InLec_09_05_2024B.exe
-G:\15-5-2024\Quiz_3\Codes\Lec_17\InLec_09_05_2024B\obj\Debug\InLec_09_05_2024B.pdb

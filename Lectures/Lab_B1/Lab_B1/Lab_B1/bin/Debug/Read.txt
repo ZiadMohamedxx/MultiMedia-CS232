@@ -1,5 +1,0 @@
-User_ID,User_Name,Password
-1,Habiba Wael,1234
-2,Habiba Elkashef,4567
-3,Adham Wael,5678
-4,Mohammed Saif,8910
